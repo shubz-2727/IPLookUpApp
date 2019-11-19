@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IpAddressInfo">d8990414db9108101ed2c4ab0b96196b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>IpAddressInfos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_423236_iplookup_ipaddressinfo</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_423236_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 09:37:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>18990414db9108101ed2c4ab0b96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IpAddressInfos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookUp" source="x_423236_iplookup">9c6480dcdb5108101ed2c4ab0b9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookUp">9c6480dcdb5108101ed2c4ab0b9619b8</sys_scope>
+        <sys_update_name>sys_app_module_18990414db9108101ed2c4ab0b96196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 09:37:13</sys_updated_on>
+        <timeline_page/>
+        <title>IpAddressInfos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
